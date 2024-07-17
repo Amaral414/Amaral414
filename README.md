@@ -1,12 +1,15 @@
+#
+# Sobre mim
+  O meu principal foco na área da tecnologia é como ocorre toda a troca de dados entre diferentes sistemas que precisem se comunicar entre si como uma rede de computadores, uma página web recebendo dados, um banco de dados fornecendo dados para uma API, entre outras comunicações essenciais para que um sistema possa funcionar corretamente.
 
-# My GitHub Conttent 
-
-Olá a todos, meu nome é Gabriel e eu sou estudante de Sistemas de Informação, acomode-se e aproveite o conteúdo.
-### Hi everybody, my name is Gabriel and i am a information system studant, sit down enjoy all conttent!
-### I have a lot of projects becasue i frequently have new ideas, my mains programs are develop to backend services using linguages like Java, Node.js, C# and Python. Rarely i use languages like HTML and CSS, but have some web projects so i duty use
-
+#
+# Conteúdo do meu GitHub
+### Geral
+  Aqui você encontrará projetos que já foram desenvolvidos e outros que estão em desenvolvimento boa parte deles fazem parte de projetos que foram desenvolvidos para a presentação de trabalhos de faculdade, mas também há os projetos desenvolvidos para a prática da programação. Dito isso, o principal conteúdo dos projetos que aparecerão aqui é a troca de dados entre diferentes sistemas, quais ferramentas são utilizadas e como elas são aplicadas para implementar o projeto.
 
 
+  
+  #### Ferramentas
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="gab-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="gab-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">

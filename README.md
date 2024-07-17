@@ -5,7 +5,9 @@
 #
 # Conteúdo do meu GitHub
 ### Geral
-  Aqui você encontrará projetos que já foram desenvolvidos e outros que estão em desenvolvimento boa parte deles fazem parte de projetos que foram desenvolvidos para a presentação de trabalhos de faculdade, mas também há os projetos desenvolvidos para a prática da programação. Dito isso, o principal conteúdo dos projetos que aparecerão aqui é a troca de dados entre diferentes sistemas, quais ferramentas são utilizadas e como elas são aplicadas para implementar o projeto.
+Aqui você encontrará projetos que já foram desenvolvidos e outros que estão em desenvolvimento boa parte deles fazem parte de projetos que foram desenvolvidos para a presentação de trabalhos de faculdade mas também há os projetos desenvolvidos para a prática da programação.
+###
+Dito isso, o principal conteúdo dos projetos que aparecerão aqui é a troca de dados entre diferentes sistemas, quais ferramentas são utilizadas e como elas são aplicadas para implementar o projeto.
 
 
   
@@ -22,7 +24,7 @@
   ##
  
 <div align="center"> 
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/amrl_gabriel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:importante.gabrielamaral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-amaral-25469922b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 

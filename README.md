@@ -1,8 +1,8 @@
 # Sobre mim
 Olá 👋! Meu nome é Gabriel Amaral e sou estudante de Sistemas de informação, fique a vontade!
-- 💻 Meus principal interesse são redes de computadores;
-- 📚 Atualmente estou praticando o desenvolvimento em java e sistema operacional Linux;
-- 📡 Gosto de estudar sobre protocolos de comunicação e troca de dados;
+- 💻 Meus principal interesse são redes de computadores e servidores;
+- 📚 Atualmente estou estudando o desenvolvimento em Java e sistema operacional Linux;
+- 📡 Gosto de aprender sobre protocolos de comunicação e troca de dados;
 - 📱 Um dia quero aprender mais sobre desenvolvimento mobile;
 - 👨‍🎓 Após formado, provavelmente irei para a área de redes de computadores.
 
@@ -16,9 +16,7 @@ Contatos:
 
 # Conteúdo do meu GitHub
 ### Geral
-Aqui você encontrará projetos que já foram desenvolvidos e outros que estão em desenvolvimento boa parte deles fazem parte de projetos que foram desenvolvidos para a presentação de trabalhos de faculdade mas também há os projetos desenvolvidos para a prática da programação.
-###
-Dito isso, o principal conteúdo dos projetos que aparecerão aqui é a troca de dados entre diferentes sistemas, quais ferramentas são utilizadas e como elas são aplicadas para implementar o projeto.
+Aqui você encontrará projetos que já foram desenvolvidos e outros que estão em desenvolvimento, boa parte deles são projetos para a faculdade mas também há os projetos que são apenas para praticar a programação.
 
 
   

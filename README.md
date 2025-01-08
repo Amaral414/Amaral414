@@ -1,10 +1,10 @@
 # Sobre mim
-Olá 👋! Meu nome é Gabriel Amaral e sou estudante de Sistemas de informação, fique a vontade!
-- 💻 Meus principal interesse são redes de computadores e servidores;
-- 📚 Atualmente estou estudando o desenvolvimento em Java e sistema operacional Linux;
-- 📡 Gosto de aprender sobre protocolos de comunicação e troca de dados;
+Olá 👋! Meu nome é Gabriel Amaral e sou estudante de Sistemas de informação, fique a vontade para!
+- 💻 Meus principal interesse são infraestrutura e administração e manutenção de adservidores;
+- 📚 Atualmente estou estudando o desenvolvimento em .NET e C#;
+- 📡 Gosto de aprender sobre protocolos de comunicação, troca de dados e redes;
 - 📱 Um dia quero aprender mais sobre desenvolvimento mobile;
-- 👨‍🎓 Após formado, provavelmente irei para a área de redes de computadores.
+- 👨‍🎓 Após formado, irei para a área de infraestrutura de redes.
 
 Contatos:     
 <div> 

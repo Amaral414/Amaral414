@@ -12,7 +12,8 @@ Contatos:
 # Principais atividades
 ### Csharp
   Desenvolvo alguns programas de terminal para testar os limites da linguagem, praticar e aperfeiçoar minhas habilidades com ela.  
-  Como eu gostava de Java, decidi mudar pra C# por conta do .NET Framework que me chamou a atenção.
+  Como eu gostava de Java, decidi mudar pra C# por conta do .NET Framework que me chamou a atenção.  Mais pra frente vou publicar
+  projetos web desenvolvidos utilizando .NET Fremework/Core
 
 ### HTML, CSS, JS
   Utilizo as técnologias basicas para desenvolver o front dos meus projetos, sinceramente não  queria me aprofundar muito a ponto de

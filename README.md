@@ -1,6 +1,6 @@
 # 👨‍💻 Gabriel Amaral
 
-Estudante de **Analise e Desenvolvimento de Sistemas** com foco em **Redes de Computadores** mas com o conhecimento (indispensável) em **Desenvolvimento de Software**.  
+Estudante de **Analise e Desenvolvimento de Sistemas** com foco em **Redes de Computadores** e uma pitada de **Desenvolvimento de Software**.  
 Busco constantemente evoluir minhas habilidades práticas através de projetos reais, laboratórios e estudos contínuos.
 
 Tenho interesse em atuar principalmente na área de

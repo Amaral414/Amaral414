@@ -1,7 +1,7 @@
 # 👨‍💻 Gabriel Amaral
 
-Estudante de **Analise e Desenvolvimento de Sistemas** e pós graduando em **Ciência de Dados**. Também não vou mentir, mas tenho uma quedinha pelas **Redes de Computadores e a Segurança da Informação**.  
-O foco dos projetos apresentados aqui sempre serão mostrar um **roadmap** completo de como a informação se constrói até chegar no usuário final. Quais dados foram utilizados e como conseguiram esses dados? Como chegaram a essa conclusão? Como esses dados viraram informalções concretas? Essas são exemplos de perguntas que serão respondidas nesse perfil, que não possui o foco de ser extremamente técnico mas sim informativo e educativo.
+Estudante de **Analise e Desenvolvimento de Sistemas** e pós graduando em **Ciência de Dados**, venho por mio deste apresentar-vos projetos desenvolvidos por mim e alguns desenvolvidos junto de parcerias.  
+O foco dos projetos sempre serão mostrar um **roadmap** completo de como a informação se constrói até chegar no usuário final. Quais dados foram utilizados e como conseguiram esses dados? Como chegaram a essa conclusão? Como esses dados viraram informalções concretas? Essas são exemplos de perguntas que serão respondidas nesse perfil, que não possui o foco de ser extremamente técnico mas sim informativo e educativo.
 
 ### Temas abordados
 - Infraestrutura de TI: VMs e servidores
@@ -81,13 +81,13 @@ Depois de coletar todos os dados brutos a partir de diversas fontes, é hora de 
       <img alt="Python" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg"><br>Python
     </td>
     <td align="center">
-      <img alt="Node" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg"><br>Python
+      <img alt="Node" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg"><br>Node
     </td>
     <td align="center">
-      <img alt="React" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg"><br>Python
+      <img alt="React" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg"><br>React
     </td>
     <td align="center">
-      <img alt="TS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg"><br>Python
+      <img alt="TS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg"><br>TypeScript
     </td>
   </tr>
 </table>

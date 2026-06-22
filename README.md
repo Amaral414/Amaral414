@@ -1,17 +1,8 @@
-# 👨‍💻 Gabriel Amaral
+# Hi 👋, my name is Gabriel
 
-Estudante de **Analise e Desenvolvimento de Sistemas** e pós graduando em **Ciência de Dados**, venho por mio deste apresentar-vos projetos desenvolvidos por mim e alguns desenvolvidos junto de parcerias.  
-O foco dos projetos sempre serão mostrar um **roadmap** completo de como a informação se constrói até chegar no usuário final. Quais dados foram utilizados e como conseguiram esses dados? Como chegaram a essa conclusão? Como esses dados viraram informalções concretas? Essas são exemplos de perguntas que serão respondidas nesse perfil, que não possui o foco de ser extremamente técnico mas sim informativo e educativo.
+I am 25 years old, native of Rio Grande do Sul, Brazil, and after finishing high school, I started university in **Systems Analysis and Development** course. Now, when I graduate at the end of the year, I plan to start a postgraduate course in **Data Science and Analysis**. What sparked my interest in data analysis was having some fixed-income investments in the bank. After realizing that all the rates and fluctuations are directly connected to geopolitics, I started using data to organize a good investment strategy. And when I began comparing event data with economic variations, I fell in love with data analysis. Since then, I focus a good part of my tech studies in this area, but without giving up web development, which still has a place in my heart.
 
-### Temas abordados
-- Infraestrutura de TI: VMs e servidores
-- Desenvolvimento de Softwares: Aplicações web completas (Full Stack)
-- Ciência e Análise de Dados (Foco principal):
-  - Dados brutos sendo extraídos e lapidados até se transformarem em informação útil
-  - Dashboards dinâmicos e insights completos
-  - Projetos experimentas, porém com foco em resolução de problemas reais
-
-### 📫 Contatos
+### 📫 Where you can found me
 
 <div> 
   <a href="mailto:gabriel.amaral414@hotmail.com">
@@ -22,52 +13,9 @@ O foco dos projetos sempre serão mostrar um **roadmap** completo de como a info
   </a> 
 </div>
 
+---
 
-# 🚀 Atividades
-
-### 🌐 Redes de Computadores & Infraestrutura
-Esse tema sera abordado para esclarecer como os softwares que utilizamos no dia a dia são hospedados, mantidos, atualizados, como chegam até nós, quais recursos de redes são utilizados para enviar e receber essas informações. Esse conteúdo será o sistema nervoso por onde corre todas as informações e os dados que utilizamos.
-#### Ferramentas e atividades
-- Criação de laboratórios utilizando ferramentas como:
-  - Cisco Packet Tracer
-  - VirtualBox
-  - Wireshark
-  - Nmap
-- Simulação de topologias de rede
-- Análise de tráfego
-- Fundamentos de segurança
-- Estudos voltados para ambientes do dia a dia
-
-### 🔬 Desenvolvimetno de Software
-Boa parte dos softwares que utilizamos hoje foram desenvolvidos utilizando diversos conjuntos de ferramentas pelas chamadas Bigtechs (ou não hahah). Porém aqui o objetivo é mostrar como esses softwares desenvolvidos são utilizados por elas para arrecadar o maior número de dados.
-#### Ferramentas e atividades
-- Desenvolvimento de software completos com:
-  - Python
-  - NodeJS
-  - React
-  - Banco de dados
-- Gravação de dados em bancos ou planilhas (dependendo do projeto)
-- Modelos de divulgação e implementação
-
-### 📊 Análise e Ciência de dados
-Depois de coletar todos os dados brutos a partir de diversas fontes, é hora de lapidar até se tornarem informações úteis, que possam ser usados de forma inteligente.
-- Desenvolveimento de insights e dashboards a partir de dados brutos utilizando principalmente
-  - Python
-  - SQL
-  - PowerBI
-  - Datasets e Databases
-- Extração de dados brutos para transformar em informação concreta
-- Desenvolvimento de conclusões a partir da comparação dos dados
-- Contextualização dos insights gerados  
-- Utilização dessas informações para fins informativos
-
-**Stack principal:**
-- Python com Pandas e Notebook, para a extração e refinamento dos dados
-- Transformação desses dados em informação e visualizações claras com SQL e PowerBI;
-- Desenvolvimento de insights e artigos referente ao assunto;
-- Trafego e comunicação de rede com Whireshark, Nmap e VMs
-
-### 🛠️ Tecnologias & Ferramentas
+### 📚 Stacks used
 
 <table>
   <tr>
@@ -91,27 +39,3 @@ Depois de coletar todos os dados brutos a partir de diversas fontes, é hora de 
     </td>
   </tr>
 </table>
-
----
-
-### 💻 Como o Desenvolvimento de Software pode auxiliar na captura de dados
-Hoje em dia é inegável que a maioria dos softwares ão utilizados para extrair dados 
-dos internautas, então vejamos qual a importância do desenvolvimento de um sofwtares atrativos
-para a captura de dados e como esses dados se tornam informações úteis para os pesquisadores, devs, e cientistas.
-
-## 🧠 Filosofia de Aprendizado
-
-Acredito que a melhor forma de aprender é **fazendo**.  
-Por isso, utilizo este GitHub como um ambiente para:
-
-- Testar tecnologias
-- Documentar aprendizados
-- Criar projetos práticos
-- Compartilhar evolução constante
-
----
-
-# 📌 Objetivo
-
-Meu objetivo é me tornar um profissional completo, unindo todos os principais elementos da tecnologia da informação. Mas o foco principal a longo prazo é atuar como **Cientista e Analista de Dados**:
-
